@@ -111,7 +111,8 @@ section {
 }
 
 img {
-        max-width: 100%;
+    object-fit:scale-down;
+    max-width: 100%;
 }
 
 /* --------------------------------------- */
@@ -646,7 +647,6 @@ body:not(.user-is-tabbing) a:focus {
   .slide-images{
       width: 3600px;
       height: 800px;
-      margin: 0 0 0 -2400px;
       position: relative;
       -webkit-animation-name: slide_animation;
       animation-name: slide_animation;
