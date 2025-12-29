@@ -495,6 +495,7 @@ body:not(.user-is-tabbing) a:focus {
 @media(min-width: 901px) {
     .work__image-box {
         flex: 1;
+        overflow: hidden;
         margin: 0 0 0 10rem;
     }
 }
@@ -611,12 +612,7 @@ body:not(.user-is-tabbing) a:focus {
         padding: var(--gutter-medium) 0;
     } 
 }
-.slider-frame{
-      overflow: hidden;
-      height: 800px;
-      width: 1200px;
-   }
- 
+
   /*---------- SLIDE ANIMATION --------------*/
  
  
