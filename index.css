@@ -661,8 +661,8 @@ body:not(.user-is-tabbing) a:focus {
   }
  
   .img-container{
-      height: 50%;
-      width: 50%;
+      height: 800px;
+      width: 1200px;
       position: relative;
       float: left;
   }
