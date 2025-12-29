@@ -613,10 +613,6 @@ body:not(.user-is-tabbing) a:focus {
 }
 .slider-frame{
       overflow: hidden;
-      height: 800px;
-      width: 1200px;
-      margin-left: 360px;
-      margin-top: 20px;
   }
  
   /*---------- SLIDE ANIMATION --------------*/
@@ -651,9 +647,6 @@ body:not(.user-is-tabbing) a:focus {
   }
  
   .slide-images{
-      width: 3600px;
-      height: 800px;
-      margin: 0 0 0 -2400px;
       position: relative;
       -webkit-animation-name: slide_animation;
       animation-name: slide_animation;
@@ -668,8 +661,6 @@ body:not(.user-is-tabbing) a:focus {
   }
  
   .img-container{
-      height: 800px;
-      width: 1200px;
       position: relative;
       float: left;
   }
