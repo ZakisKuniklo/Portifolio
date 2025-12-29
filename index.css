@@ -490,13 +490,13 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
+    overflow: hidden;
+
 }
 
 @media(min-width: 901px) {
     .work__image-box {
         flex: 1;
-        overflow: hidden;
-        margin: 0 0 0 10rem;
     }
 }
 
