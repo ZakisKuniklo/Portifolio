@@ -667,4 +667,5 @@ body:not(.user-is-tabbing) a:focus {
       width: 1200px;
       position: relative;
       float: left;
+      box-shadow: inset 0px 0px 40px 40px #000;
   }
