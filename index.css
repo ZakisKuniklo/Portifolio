@@ -111,8 +111,7 @@ section {
 }
 
 img {
-    object-fit: contain;
-    max-width: 100%;
+        max-width: 100%;
 }
 
 /* --------------------------------------- */
@@ -645,7 +644,7 @@ body:not(.user-is-tabbing) a:focus {
   }
  
   .slide-images{
-      width: 1600px;
+      width: 3600px;
       height: 800px;
       margin: 0 0 0 -2400px;
       position: relative;
